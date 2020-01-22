@@ -1,0 +1,14 @@
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Binary Trees.csprojAssemblyReference.cache
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Binary Trees.csproj.CoreCompileInputs.cache
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\that1\Desktop\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\obj\Debug\Binary Trees.csprojAssemblyReference.cache
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\obj\Debug\Binary Trees.csproj.CoreCompileInputs.cache
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\that1\Desktop\C#\Binary Trees\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
